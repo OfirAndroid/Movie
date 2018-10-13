@@ -163,7 +163,6 @@ public class MainScreenActivity
     mSwipeToRefresh.setRefreshing(false);
     mAdapter.removeProgressBar();
     Log.e(TAG, error);
-    toastNetworkError();
   }
 
 
