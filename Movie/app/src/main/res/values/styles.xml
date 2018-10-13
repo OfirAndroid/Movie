@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">@color/AppBackground</item>
+        <item name="android:colorAccent">@color/AppBackground</item>
+        <item name="android:colorPrimary">@color/AppBackground</item>
+        <item name="android:statusBarColor">@color/AppBackground</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="overlapAnchor">false</item>
+    </style>
+
+</resources>
